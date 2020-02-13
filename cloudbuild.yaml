@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [ 'build', '-t', 'gcr.io/friendlychat-4f0c0/quickstart-image', '.' ]
+images:
+- 'gcr.io/friendlychat-4f0c0/quickstart-image'
