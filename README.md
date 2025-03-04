@@ -1,2 +1,2 @@
 # AdventOfCode2018
-Solving advent of code puzzles
+Solving advent of code puzzles.
